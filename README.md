@@ -79,9 +79,6 @@ iot-hybrid-intrusion-detection/
 ├── notebooks/
 │   └── iot_hybrid_intrusion_detection.ipynb
 │
-├── paper/
-│   ├── main.pdf
-│   └── main.tex
 │
 ├── Springer_Paper.pdf
 ├── requirements.txt
