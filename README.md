@@ -122,8 +122,7 @@ Open `notebooks/iot_hybrid_intrusion_detection.ipynb` and execute the cells in o
 The complete research paper is available in:
 
 - `Springer_Paper.pdf`
-- `paper/main.pdf`
-- `paper/main.tex`
+
 
 ## Limitations
 
